@@ -1,0 +1,15 @@
+GoldWave
+7-Zip
+VLC
+FortiClient VPN
+GlobalProtect
+PuTTY
+Oracle VM VirtualBox
+Google Chrome
+Zoom
+AnyDesk
+Cisco AnyConnect Secure Mobility Client
+WinSCP
+Java
+mRemoteNG
+Notepad++

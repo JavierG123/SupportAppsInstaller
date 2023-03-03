@@ -1,0 +1,15 @@
+GoldWave,https://goldwave.ca/download.php?file=gw
+7-Zip,https://www.7-zip.org/a/7z2201-x64.exe
+VLC,https://get.videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe
+FortiClient VPN,https://filestore.fortinet.com/forticlient/FortiClientVPNOnlineInstaller.exe
+GlobalProtect,
+PuTTY,https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.78-installer.msi
+Oracle VM VirtualBox,https://download.virtualbox.org/virtualbox/7.0.6/VirtualBox-7.0.6-155176-Win.exe
+Google Chrome,https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B78E0AC41-A024-0074-D64A-63D6A9527671%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe
+Zoom,https://zoom.us/client/5.13.7.12602/ZoomInstallerFull.exe?archType=x64
+AnyDesk,https://anydesk.com/es/downloads/windows?dv=win_exe
+Cisco AnyConnect Secure Mobility Client,
+WinSCP,https://winscp.net/download/WinSCP-5.21.7-Setup.exe
+Java,https://javadl.oracle.com/webapps/download/AutoDL?BundleId=247917_0ae14417abb444ebb02b9815e2103550
+mRemoteNG,https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.20/mRemoteNG-Installer-1.76.20.24615.msi
+Notepad++,https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.9/npp.8.4.9.Installer.x64.exe
